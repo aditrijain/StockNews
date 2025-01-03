@@ -23,7 +23,7 @@ Ensure you have the following installed:
 ## Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/stock-news-notifier.git
+   git clone https://github.com/aditrijain/StockNews.git
    cd stock-news-notifier
    ```
 
